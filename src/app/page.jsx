@@ -32,13 +32,13 @@ export default function page() {
         </p>
 
       </div>
-      <div className='md:w-72 w-full h-fit md:h-[26.625rem] md:rounded-3xl'>
+      <div className='md:w-72 w-full h-fit md:h-[26.625rem] md:rounded-3xl px-4'>
 
-        <h2 className='md:text-black md:text-2xl md:font-medium md:ml-[1.5rem] text-black text-2xl font-medium pt-8 px-4'>
+        <h2 className='md:text-black md:text-2xl md:font-medium md:ml-[1.5rem] text-black text-2xl font-medium pt-8 '>
           Summary
         </h2>
 
-        <div className='md:w-56 md:h-56 md:flex md:flex-col md:justify-start md:items-start md:gap-3 md:mt-[1.5rem] md:mx-auto mt-6 gap-3 flex flex-col'>
+        <div className='md:w-56 md:h-56 md:flex md:flex-col md:justify-start md:items-start md:gap-3 md:mt-[1.5rem] md:mx-auto mt-6 gap-3 flex flex-col '>
           <div className='md:w-56 md:h-12 md:p-3 md:bg-red-50 md:rounded-lg md:shadow md:flex md:gap-12  w-auto h-12 p-3 bg-red-50 rounded-lg shadow flex justify-between items-center'>
             <div className='md:flex md:gap-2 md:justify-center md:items-center flex justify-center items-center gap-2 '>
                 <BsLightningCharge className='text-[#DC6865]'/>
@@ -115,7 +115,7 @@ export default function page() {
           </div>
         </div>
 
-        <div className=' md:bg-slate-700 md:rounded-3xl md:w-56 md:h-11  md:mt-[1.5rem] md:mx-auto md:flex md:justify-center md:items-center w-auto h-11 bg-slate-700 rounded-3xl justify-center items-center mt-8 '>
+        <div className=' md:bg-slate-700 md:rounded-3xl md:w-56 md:h-11  md:mt-[1.5rem] md:mx-auto md:flex md:justify-center md:items-center h-11 bg-slate-700 rounded-3xl justify-center items-center mt-8 '>
           <p className='md:text-center md:text-stone-50 text-stone-50 text-lg flex justify-center items-center h-full '>
             Continue
           </p>
