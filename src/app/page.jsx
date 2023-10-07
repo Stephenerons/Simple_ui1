@@ -1,7 +1,7 @@
 import React from 'react'
-import {BsLightningCharge} from 'react-icons/Bs'
-import {PiMessengerLogoDuotone,PiBrain} from 'react-icons/Pi'
-import {FiEye} from 'react-icons/Fi'
+import {BsLightningCharge} from 'react-icons/bs'
+import {PiMessengerLogoDuotone,PiBrain} from 'react-icons/pi'
+import {FiEye} from 'react-icons/fi'
 
 export default function page() {
   return (
